@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">min3D framework examples</string>
+    <string name="splashTitle">https://github.com/Kinetic27/Min3D-SampleProject</string>
+    <string name="sample_text">이 문장은 아무 의미도, 의도도 없는 샘플 텍스트지만 샘플 텍스트로 넣을 만한 길이의 문장이 생각나지 않아서 커피한잔 마시고 헛소리를 여기다가 적어놓고 있는 것이다. (대충 헛소리 샘플 텍스트라는 소리)
+    </string>
+</resources>
